@@ -2,12 +2,24 @@
 
 # 原圖(使用自己的照片)
 
-<img width="119" height="158" alt="image" src="https://github.com/user-attachments/assets/063592d1-a187-497a-ba5f-a8b4094d1ba1" />
+<img width="2448" height="3264" alt="20261019_183839" src="https://github.com/user-attachments/assets/25c7ceff-e70e-49d4-80e8-30879df9ce11" />
 
 # 生成的圖
 
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/41260d6d-14ce-4f29-91f4-423b9bed6ebe" />
+
+
 # 完整工作流截圖
+
+<img width="1225" height="622" alt="{96666075-9E0B-47C1-871D-F22012EBFC78}" src="https://github.com/user-attachments/assets/8098a437-1e40-4b7a-8112-f8e4f3668172" />
+
 
 # 顯示使用的正反提示詞
 
+正:a photo of a 30-year-old East Asian man wearing a fitted dark blue suit and white shirt, mature and natural expression, upper body portrait, modern indoor background, sharp focus, natural lighting
+
+反:lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry
+
 # 個人心得
+
+雖然ai生成圖片很新穎，可是我始終生理上覺得ai生成的圖片好醜。
